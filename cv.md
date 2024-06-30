@@ -1,17 +1,17 @@
 # Curriculum vitae
 *********
 ## Contacts
-    *Discord: efi16
-    *Gmail: dream.efi16@gmail.com
+*Discord: efi16
+*Gmail: dream.efi16@gmail.com
 ## About
-    I am student.
+I am student.
 ## Skills
-    Now nothing.
+Now nothing.
 ## Example code
-    Now nothing.
+Now nothing.
 ## Experience
-    Now nothing.
+Now nothing.
 ## Education
-    UlSTU
+UlSTU
 ## Languages
     -
