@@ -1,8 +1,8 @@
 # Curriculum vitae
 *********
 ## Contacts
-*Discord: efi16
-*Gmail: dream.efi16@gmail.com
+*   Discord: efi16
+*   Gmail: dream.efi16@gmail.com
 ## About
 I am student.
 ## Skills
