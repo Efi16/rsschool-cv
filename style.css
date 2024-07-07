@@ -1,3 +1,49 @@
 body {
     background-color: lightblue;
   }
+nav{
+  text-align: center;
+  display: inline;
+}
+.name{  
+
+  text-align: center;
+  display: inline-block;
+}
+img{
+  width: auto;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.icon {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+footer{
+  background-color: lightgreen;
+  position:relative;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  margin: 0;
+}
+nav ul{
+  text-align: center;
+}
+nav li{
+  display: inline-block;
+}
+li{
+  list-style: none;
+}
+.RSSchool{
+  text-align: center;
+  display: inline-block;
+}
